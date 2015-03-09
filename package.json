@@ -1,11 +1,11 @@
 {
-  "name": "my-addon-key",
-  "displayName": "My Add-on Name",
-  "description": "You add-on description",
+  "name": "Listless",
+  "displayName": "Listless",
+  "description": "Make a list. Check it twice.",
   "version": "0.1.0",
   "author": {
-    "name": "My Name",
-    "url": "http://mycompany.com"
+    "name": "aB",
+    "url": "http://andreabradshaw.com"
   },
   "license": "Apache 2.0",
   "engines": {
